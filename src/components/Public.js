@@ -13,7 +13,7 @@ function Public() {
                     Dan D. Repairs<br />
                     555 Foo Drive<br />
                     Foo City, CA 123456789<br />
-					<a href="tel:+15555555555">(555) 555-5555000</a>
+					<a href="tel:+15555555555">(555) 555-555</a>
 				</address>
 				<br />
 				<p>Owner: Dan Davidson</p>

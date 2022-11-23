@@ -66,6 +66,6 @@ module.exports = {
 		"space-infix-ops": "error",
 		"keyword-spacing": "error",
 		"space-before-blocks": "error",
-		"react/jsx-filename-extension": [1, { allow: "as-needed" }]
+		"react/jsx-filename-extension": [1, { extensions: [".js", ".jsx"] }]
 	}
 };
